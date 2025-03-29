@@ -1,1 +1,4 @@
-echo "gunicorn" >> requirements.txt
+streamlit
+pandas
+seaborn
+matplotlib
