@@ -54,5 +54,7 @@ Feel free to contribute by raising issues, suggesting improvements, or submittin
 
 ## License
 This project is licensed under the MIT License.
+## chartpixel app deployment link:
+https://www.chartpixel.com/project?id=3waUFeWs
 
 
